@@ -35,5 +35,6 @@
 <a href="https://www.linkedin.com/in/marcus-bernardo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 <a href="https://www.instagram.com/marcusbernardo58/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <h3> My Website </h3>
-<img alt="Website" src="https://img.shields.io/website?up_message=marcus&url=https%3A%2F%2Fsites.google.com%2Fview%2Fmarcusbernardo">
+<a href = "https://sites.google.com/view/marcusbernardo/" ><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fsites.google.com%2Fview%2Fmarcusbernardo%2F"> <a>
 </div>
+  
