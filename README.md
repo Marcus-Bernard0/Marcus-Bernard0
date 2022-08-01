@@ -9,10 +9,8 @@
 </div>
 
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=Marcus-Bernard0&theme=gotham&hide_border=true&area=true)
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Marcus-Bernard0&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+
 </p>
 
 <div align = "center">
@@ -22,6 +20,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"  widht = "40" height = "40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" widht = "40" height = "40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" widht = "40" height = "40" />
+<img src= "https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" widht ="40" height = "40" />
 
 <h3> I'm learning </h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"  widht = "40" height = "40"/>
